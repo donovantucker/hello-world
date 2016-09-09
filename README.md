@@ -1,2 +1,5 @@
 # hello-world
-first program
+hhh
+hh
+h
+/0
